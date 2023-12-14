@@ -1,2 +1,2 @@
 # newhorizons
-leanring something new
+learning something new
